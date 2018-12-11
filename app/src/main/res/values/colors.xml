@@ -6,8 +6,8 @@
 
     <color name="black_overlay">#66000000</color>
     
-    <color name="RED">#e26f7e</color>
-    <color name="GREEN">#60e6a8</color>
-    <color name="YELLOW">#c3dc6f</color>
+    <color name="RED">#e2364d</color>
+    <color name="GREEN">#25e68d</color>
+    <color name="YELLOW">#bcdc4f</color>
     
 </resources>
